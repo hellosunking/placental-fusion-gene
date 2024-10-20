@@ -3,7 +3,7 @@
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
 license for **personal and academic usage only.**
 
-### You need to install the following software:
+### The following software are required:
 1. bwa
 2. samtools
 3. STAR-Fusion, with the 'GRCh38_gencode_v37_CTAT_lib_Mar012021' annotation
