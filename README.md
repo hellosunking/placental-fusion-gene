@@ -1,4 +1,4 @@
-### Programs and scripts to analyze placental fusion genes in Zhang et al.
+### Programs and scripts to analyze RNA genes in placentae (Zhang et al.).
 ---
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
 license for **personal and academic usage only.**
@@ -49,5 +49,5 @@ You may need to manually check the results using IGV or UCSC genome browser.
 ```
 The first 2 parameters are paired RNA-seq read files that supports a specific fusion event, the 3rd parameter is the path to human
 genome in fasta or 2bit format, and the 4th parameter is the Trinity's output directory. This script will generate several `bed` and `bam`
-format files which you can visualize using IGV or UCSC Genome Browser to manually check the reliablity of the fusion gene.
+format files which you can visualize using IGV or UCSC Genome Browser to manually check the reliablity of the fusion events.
 
