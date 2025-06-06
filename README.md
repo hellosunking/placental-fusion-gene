@@ -1,4 +1,4 @@
-### Programs and scripts to analyze RNA genes in placentae (Zhang et al.).
+### Programs and scripts to analyze RNA fusions in placentae (Zhang et al.).
 ---
 Distributed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/ "CC BY-NC-ND")
 license for **personal and academic usage only.**
